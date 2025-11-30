@@ -1,0 +1,107 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Literaturliste",
+  "type": "object",
+  "required": ["list_id", "source", "books"],
+  "properties": {
+    "list_id": {
+      "type": "string",
+      "description": "Eindeutige ID der Liste, z.B. 'zeit-100-beste-2025'"
+    },
+    "source": {
+      "type": "object",
+      "required": ["publication"],
+      "properties": {
+        "publication": {
+          "type": "string",
+          "description": "Name der Publikation, z.B. 'DIE ZEIT'"
+        },
+        "issue": {
+          "type": "string",
+          "description": "Ausgabe, z.B. '51/2025'"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "date": {
+          "type": "string",
+          "pattern": "^[0-9]{4}(-[0-9]{2})?$",
+          "description": "Datum im Format YYYY oder YYYY-MM"
+        }
+      }
+    },
+    "books": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "author"],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
+          "original_title": {
+            "type": ["string", "null"],
+            "description": "Originaltitel bei Übersetzungen"
+          },
+          "translator": {
+            "type": ["string", "null"]
+          },
+          "publisher": {
+            "type": ["string", "null"]
+          },
+          "year": {
+            "type": ["integer", "null"],
+            "description": "Erscheinungsjahr der deutschen Ausgabe"
+          },
+          "isbn": {
+            "type": ["string", "null"],
+            "pattern": "^978-[0-9-]+$"
+          },
+          "category": {
+            "type": ["string", "null"],
+            "description": "Genre/Kategorie, z.B. 'Roman', 'Sachbuch', 'Lyrik'"
+          },
+          "section": {
+            "type": ["string", "null"],
+            "description": "Thematische Gruppierung innerhalb der Liste"
+          },
+          "articles": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["publication"],
+              "properties": {
+                "publication": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": ["string", "null"]
+                },
+                "url": {
+                  "type": ["string", "null"],
+                  "format": "uri"
+                },
+                "author": {
+                  "type": ["string", "null"]
+                },
+                "date": {
+                  "type": ["string", "null"],
+                  "pattern": "^[0-9]{4}(-[0-9]{2})?$"
+                },
+                "type": {
+                  "type": "string",
+                  "enum": ["review", "interview", "excerpt", "mention"],
+                  "description": "Art des Artikels"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
