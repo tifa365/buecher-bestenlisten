@@ -7,25 +7,65 @@
     "date": "2025-11"
   },
   "books": [
-    { "title": "See der Schöpfung", "author": "Rachel Kushner", "original_title": "Creation Lake", "translator": "Bettina Abarbanell", "publisher": "Rowohlt", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Die Nulllinie. Roman aus dem Krieg", "author": "Szczepan Twardoch", "original_title": "Linia", "translator": "Olaf Kühl", "publisher": "Rowohlt Berlin", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Ich gab dir Augen, und du blicktest in die Finsternis", "author": "Irene Solà", "original_title": "T'he donat ulls i has mirat les tenebres", "translator": "Petra Zickmann", "publisher": "S. Fischer", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Die Holländerinnen", "author": "Dorothee Elmiger", "original_title": null, "translator": null, "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Das gelbe Haus", "author": "Mieko Kawakami", "original_title": "黄色い家", "translator": "Katja Busson", "publisher": "DuMont", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Play Boy", "author": "Constance Debré", "original_title": "Play Boy", "translator": "Max Henninger", "publisher": "Matthes & Seitz", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Sohn ohne Vater", "author": "Feridun Zaimoglu", "original_title": null, "translator": null, "publisher": "Kiepenheuer & Witsch", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Die Rückseite des Lebens", "author": "Yasmina Reza", "original_title": "L'Envers du décor", "translator": "Claudia Hamm", "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Let's talk about feelings", "author": "Leif Randt", "original_title": null, "translator": null, "publisher": "Kiepenheuer & Witsch", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Haus zur Sonne", "author": "Thomas Melle", "original_title": null, "translator": null, "publisher": "Kiepenheuer & Witsch", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Der Krabbenfischer", "author": "Benjamin Wood", "original_title": "The Shrimp Fishermen", "translator": "Werner Löcher-Lawrence", "publisher": "DuMont", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Sister Deborah", "author": "Scholastique Mukasonga", "original_title": "Sœur Deborah", "translator": "Jan Schönherr", "publisher": "Claassen", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Öffnet sich der Himmel", "author": "Seán Hewitt", "original_title": "All Down Darkness Wide", "translator": "Stephan Kleiner", "publisher": "Suhrkamp", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Frau im Mond", "author": "Pierre Jarawan", "original_title": null, "translator": null, "publisher": "Piper", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Huris", "author": "Kamel Daoud", "original_title": "Houris", "translator": "Holger Fock & Sabine Müller", "publisher": "Matthes & Seitz", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Von allgemeiner Gültigkeit", "author": "Natasha Brown", "original_title": "Assembly", "translator": "Eva Bonné", "publisher": "Suhrkamp", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Dr. No", "author": "Percival Everett", "original_title": "Dr. No", "translator": "Nikolaus Stingl", "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Medulla", "author": "Verena Güntner", "original_title": null, "translator": null, "publisher": "DuMont", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Abschied", "author": "Sebastian Haffner", "original_title": null, "translator": null, "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] },
-    { "title": "Verzauberte Vorbestimmung", "author": "Jonas Lüscher", "original_title": null, "translator": null, "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [] }
+    { "title": "See der Schöpfung", "author": "Rachel Kushner", "original_title": "Creation Lake", "translator": "Bettina Abarbanell", "publisher": "Rowohlt", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Rachel Kushner", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-rachel-kushner-see-der-schoepfung-a-adbbeb18-cc89-4ae5-a95d-85da07ea3437", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Die Nulllinie. Roman aus dem Krieg", "author": "Szczepan Twardoch", "original_title": "Linia", "translator": "Olaf Kühl", "publisher": "Rowohlt Berlin", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Szczepan Twardoch", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-szczepan-twardoch-die-nulllinie-roman-aus-dem-krieg-a-b18fdb2a-82af-42d9-b51b-457edc94c207", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Ich gab dir Augen, und du blicktest in die Finsternis", "author": "Irene Solà", "original_title": "T'he donat ulls i has mirat les tenebres", "translator": "Petra Zickmann", "publisher": "S. Fischer", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Irene Solà", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-irene-sola-ich-gab-dir-augen-und-du-blicktest-in-die-finsternis-a-401c6d95-5917-437a-b137-069344be3516", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Die Holländerinnen", "author": "Dorothee Elmiger", "original_title": null, "translator": null, "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Dorothee Elmiger", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-dorothee-elmiger-die-hollaenderinnen-a-f397e04c-db14-48d7-b6f8-ab86c5394c81", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Das gelbe Haus", "author": "Mieko Kawakami", "original_title": "黄色い家", "translator": "Katja Busson", "publisher": "DuMont", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Mieko Kawakami", "url": "https://www.spiegel.de/kultur/literatur/mieko-kawakami-platz-5-beim-spiegel-buchpreis-fuer-das-gelbe-haus-a-18b45f34-53cf-4dce-9079-052339a32d83", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Play Boy", "author": "Constance Debré", "original_title": "Play Boy", "translator": "Max Henninger", "publisher": "Matthes & Seitz", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Constance Debré", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-constance-debre-play-boy-a-5ffde654-96c4-45fc-8d43-a2efcbcfb8a3", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Sohn ohne Vater", "author": "Feridun Zaimoglu", "original_title": null, "translator": null, "publisher": "Kiepenheuer & Witsch", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Feridun Zaimoglu", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater-a-3efdbfec-a3e6-489b-9caa-192608f11bb9", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Die Rückseite des Lebens", "author": "Yasmina Reza", "original_title": "L'Envers du décor", "translator": "Claudia Hamm", "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Yasmina Reza", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-yasmina-reza-die-rueckseite-des-lebens-a-cb9d654e-7ff2-4ae8-b85f-c53fab9118e1", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Let's talk about feelings", "author": "Leif Randt", "original_title": null, "translator": null, "publisher": "Kiepenheuer & Witsch", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Leif Randt", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings-a-1482fa3e-486f-4528-881c-58086f057831", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Haus zur Sonne", "author": "Thomas Melle", "original_title": null, "translator": null, "publisher": "Kiepenheuer & Witsch", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Thomas Melle", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-thomas-melle-haus-zur-sonne-a-b77a5613-3414-4101-8906-b795a21429ff", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Der Krabbenfischer", "author": "Benjamin Wood", "original_title": "The Shrimp Fishermen", "translator": "Werner Löcher-Lawrence", "publisher": "DuMont", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Benjamin Wood", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-benjamin-wood-der-krabbenfischer-a-c284b892-d91a-4328-80b8-61fa56951f80", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Sister Deborah", "author": "Scholastique Mukasonga", "original_title": "Sœur Deborah", "translator": "Jan Schönherr", "publisher": "Claassen", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Scholastique Mukasonga", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-scholastique-mukasonga-sister-deborah-a-76a12090-6710-4b92-9751-f355c0ec43c5", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Öffnet sich der Himmel", "author": "Seán Hewitt", "original_title": "All Down Darkness Wide", "translator": "Stephan Kleiner", "publisher": "Suhrkamp", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Seán Hewitt", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-sean-hewitt-oeffnet-sich-der-himmel-a-d56ed349-7a5c-4109-b7a3-821557076862", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Frau im Mond", "author": "Pierre Jarawan", "original_title": null, "translator": null, "publisher": "Piper", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Pierre Jarawan", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-pierre-jarawan-frau-im-mond-a-7c313a40-6c01-4bd7-8010-7b5272e53c57", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Huris", "author": "Kamel Daoud", "original_title": "Houris", "translator": "Holger Fock & Sabine Müller", "publisher": "Matthes & Seitz", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Kamel Daoud", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-kamel-daoud-huris-a-01a195e6-15ff-430e-9dd5-853719efa550", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Von allgemeiner Gültigkeit", "author": "Natasha Brown", "original_title": "Assembly", "translator": "Eva Bonné", "publisher": "Suhrkamp", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Natasha Brown", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-natasha-brown-von-allgemeiner-gueltigkeit-a-bd99c753-245d-400b-9adf-4456b100e879", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Dr. No", "author": "Percival Everett", "original_title": "Dr. No", "translator": "Nikolaus Stingl", "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Percival Everett", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no-a-7b766d5f-0b35-44c1-a9d9-83d1f9b1b3c2", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Medulla", "author": "Verena Güntner", "original_title": null, "translator": null, "publisher": "DuMont", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Verena Güntner", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-verena-guentner-medulla-a-bd3080c9-03de-481b-bf69-f3cc6cd74ddc", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Abschied", "author": "Sebastian Haffner", "original_title": null, "translator": null, "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Sebastian Haffner", "url": "https://www.spiegel.de/kultur/literatur/sebastian-haffner-platz-16-des-spiegel-buchpreises-fuer-die-erzaehlung-abschied-a-fd495a67-7dbc-43fe-a643-015744e98461", "author": null, "date": "2025", "type": "review" }
+    ] },
+    { "title": "Verzauberte Vorbestimmung", "author": "Jonas Lüscher", "original_title": null, "translator": null, "publisher": "Hanser", "year": 2025, "isbn": null, "category": "Roman", "section": "SPIEGEL Buchpreis 2025", "articles": [
+      { "publication": "DER SPIEGEL", "title": "SPIEGEL Buchpreis: Jonas Lüscher", "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-jonas-luescher-verzauberte-vorbestimmung-a-a7a88720-c288-47fc-9007-fcbae50c3189", "author": null, "date": "2025", "type": "review" }
+    ] }
   ]
 }
