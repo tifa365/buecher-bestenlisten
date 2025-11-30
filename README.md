@@ -1,6 +1,8 @@
-# Kanon
+# Bücher-Bestenlisten
 
-Eine Sammlung deutscher Literatur-Bestenlisten als strukturierte Daten.
+> **Work in Progress** – Dieses Projekt befindet sich im Aufbau.
+
+Deutsche Literatur-Bestenlisten als strukturierte JSON-Daten.
 
 ## Enthaltene Listen
 
