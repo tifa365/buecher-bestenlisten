@@ -9,6 +9,7 @@ Deutsche Literatur-Bestenlisten als strukturierte JSON-Daten.
 | Medium | Liste | Zeitraum | Einträge |
 |--------|-------|----------|----------|
 | ZEIT | [100 beste Bücher 2025](data/zeit/100-beste-2025.json) | 2025 | 100 |
+| ZEIT | [30 beste Bücher Frühjahr 2025](data/zeit/30-beste-fruehjahr-2025.json) | 2025 | 30 |
 | ZEIT | [33 wichtigsten Herbst 2025](data/zeit/33-wichtigsten-herbst-2025.json) | 2025 | 33 |
 | ZEIT | [50 beste Bücher des 21. Jh.](data/zeit/50-beste-21jh.json) | 2024 | 50 |
 | SPIEGEL | [Buchpreis 2025](data/spiegel/buchpreis-2025.json) | 2025 | 20 |
