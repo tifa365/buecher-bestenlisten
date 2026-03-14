@@ -1,0 +1,326 @@
+{
+  "list_id": "zeit-fruehjahr-2026",
+  "source": {
+    "publication": "DIE ZEIT",
+    "issue": "12/2026",
+    "url": "https://www.zeit.de/kultur/literatur/buchempfehlung-lesen-tipps",
+    "date": "2026-03"
+  },
+  "books": [
+    {
+      "title": "Sanditz",
+      "author": "Lukas Rietzschel",
+      "original_title": null,
+      "translator": null,
+      "publisher": "dtv",
+      "year": 2026,
+      "isbn": "978-3-423-28516-2",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "\"Sanditz\" von Lukas Rietzschel: Diese verdammte Lust, dagegen zu sein",
+          "url": "https://www.zeit.de/2026/12/sanditz-lukas-rietzschel-ostdeutschland-ddr-roman",
+          "author": "Adam Soboczynski",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Toxibaby",
+      "author": "Dana von Suffrin",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Kiepenheuer & Witsch",
+      "year": 2026,
+      "isbn": "978-3-462-00979-8",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "\"Toxibaby\" von Dana von Suffrin: \"Es ist nicht schlecht, Feinde zu haben\"",
+          "url": "https://www.zeit.de/2026/12/toxibaby-dana-von-suffrin-roman-beziehungen",
+          "author": "Maja Beckers",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Meine Liebe stirbt nicht",
+      "author": "Roberto Saviano",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Carl Hanser Verlag",
+      "year": 2026,
+      "isbn": "978-3-446-28579-8",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Roberto Saviano: \"Die Liebe ist eine Bedrohung\"",
+          "url": "https://www.zeit.de/2026/12/roberto-saviano-meine-liebe-stirbt-nicht-organisierte-kriminalitaet-roman",
+          "author": "Ronald Düker",
+          "date": "2026-03",
+          "type": "interview"
+        }
+      ]
+    },
+    {
+      "title": "Einsamkeit. Warum sie uns alle betrifft",
+      "author": "Maike Luhmann",
+      "original_title": null,
+      "translator": null,
+      "publisher": "S. FISCHER",
+      "year": 2026,
+      "isbn": "978-3-10-397718-9",
+      "category": "Sachbuch",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Einsamkeit: Klüger einsam sein",
+          "url": "https://www.zeit.de/2026/12/einsamkeit-gesellschaft-empfindung-literatur",
+          "author": "Jens Jessen",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Einsamsein",
+      "author": "Daniel Haas",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Goldmann",
+      "year": 2026,
+      "isbn": "978-3-442-30233-8",
+      "category": "Sachbuch",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Einsamkeit: Klüger einsam sein",
+          "url": "https://www.zeit.de/2026/12/einsamkeit-gesellschaft-empfindung-literatur",
+          "author": "Jens Jessen",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Diamanten",
+      "author": "David Vajda",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Hanser Berlin",
+      "year": 2026,
+      "isbn": "978-3-446-28584-2",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Debütromane: Zwei Romane, die keine grellen Klappentexte brauchen",
+          "url": "https://www.zeit.de/2026/12/debuetromane-david-vajda-sonlewandowski-roman",
+          "author": "David Hugendick",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Die Routinen",
+      "author": "Son Lewandowski",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Klett-Cotta",
+      "year": 2026,
+      "isbn": "978-3-608-12528-3",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Debütromane: Zwei Romane, die keine grellen Klappentexte brauchen",
+          "url": "https://www.zeit.de/2026/12/debuetromane-david-vajda-sonlewandowski-roman",
+          "author": "David Hugendick",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Ghost Stories",
+      "author": "Siri Hustvedt",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Rowohlt Hardcover",
+      "year": 2026,
+      "isbn": "978-3-498-00788-1",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Siri Hustvedt: \"Er möchte als Geist zurückkehren\"",
+          "url": "https://www.zeit.de/2026/12/siri-hustvedt-paul-auster-ghost-stories-trauer-roman",
+          "author": "Volker Weidermann",
+          "date": "2026-03",
+          "type": "interview"
+        }
+      ]
+    },
+    {
+      "title": "Wer möchte nicht im Leben bleiben",
+      "author": "Helene Bukowski",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Claassen",
+      "year": 2026,
+      "isbn": "978-3-546-10158-5",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Helene Bukowski: Der Sprung aus dem Fenster",
+          "url": "https://www.zeit.de/2026/12/helene-bukowski-wer-moechte-nicht-im-leben-bleiben-roman-leipziger-buchmesse",
+          "author": "Jolinde Hüchtker",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Kids, Wait Till You Hear This!",
+      "author": "Liza Minnelli",
+      "original_title": "Kids, Wait Till You Hear This!",
+      "translator": null,
+      "publisher": "Grand Central Publishing",
+      "year": 2026,
+      "isbn": "978-1-5387-7366-6",
+      "category": "Sachbuch",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Liza Minnelli: \"Es gab sehr lange Nächte in meinem Leben\"",
+          "url": "https://www.zeit.de/2026/12/liza-minnelli-autobiografie-judy-garland-cabaret",
+          "author": "Timo Posselt",
+          "date": "2026-03",
+          "type": "interview"
+        }
+      ]
+    },
+    {
+      "title": "Messalina",
+      "author": "Honor Cargill-Martin",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Bloomsbury Publishing",
+      "year": 2024,
+      "isbn": "978-1-80110-260-5",
+      "category": "Sachbuch",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "\"Messalina\" von Honor Cargill-Martin: Ehebrecherinnen haben mehr Spaß",
+          "url": "https://www.zeit.de/2026/12/messalina-honor-cargill-martin-kaiserin-rom",
+          "author": "Melanie Möller",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Sepp",
+      "author": "Hans Ulrich Gumbrecht",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Suhrkamp Verlag",
+      "year": 2026,
+      "isbn": "978-3-518-43279-2",
+      "category": "Sachbuch",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Hans Ulrich Gumbrecht: Also, Bescheidenheit ist nicht sein Problem",
+          "url": "https://www.zeit.de/2026/12/hans-ulrich-gumbrecht-sepp-autobiografie-literaturwissenschaft",
+          "author": "Alexander Cammann",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Taylor's Version",
+      "author": "Stephanie Burt",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Basic Books",
+      "year": 2025,
+      "isbn": "978-1-5416-0623-4",
+      "category": "Sachbuch",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Taylor Swift: \"Ihr Feminismus ist komplex\"",
+          "url": "https://www.zeit.de/2026/12/taylor-swift-stefanie-burt-feminismus-songtexte",
+          "author": "Berit Dießelkämper",
+          "date": "2026-03",
+          "type": "interview"
+        }
+      ]
+    },
+    {
+      "title": "Der Fotograf Fred Stein. Ein deutsch-jüdisches Leben 1909 bis 1967",
+      "author": "Daniel Siemens",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Ch. Links Verlag",
+      "year": 2026,
+      "isbn": "978-3-96289-251-7",
+      "category": "Sachbuch",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "Fred Stein: Kann ein Paparazzo höflich sein?",
+          "url": "https://www.zeit.de/2026/12/fred-stein-fotograf-daniel-siemens-biografie",
+          "author": "Cornelius Pollmer",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    },
+    {
+      "title": "Liebe",
+      "author": "Thomas Hettche",
+      "original_title": null,
+      "translator": null,
+      "publisher": "Kiepenheuer & Witsch",
+      "year": 2026,
+      "isbn": "978-3-462-00204-1",
+      "category": "Roman",
+      "section": null,
+      "articles": [
+        {
+          "publication": "DIE ZEIT",
+          "title": "\"Liebe\" von Thomas Hettche: Es ist, was es ist",
+          "url": "https://www.zeit.de/2026/12/liebe-thomas-hettche-roman-bezeihung-alter",
+          "author": "Ijoma Mangold",
+          "date": "2026-03",
+          "type": "review"
+        }
+      ]
+    }
+  ]
+}
