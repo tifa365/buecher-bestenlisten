@@ -8,16 +8,16 @@ Deutsche Literatur-Bestenlisten als strukturierte JSON-Daten.
 
 | Medium | Liste | Zeitraum | Einträge |
 |--------|-------|----------|----------|
-| ZEIT | [100 beste Bücher 2025](data/zeit/100-beste-2025.json) | 2025 | 100 |
-| ZEIT | [Unsere 100 Bücher für den Herbst 2026](data/zeit/100-buecher-herbst-2026.json) | 2026 | 100 |
-| ZEIT | [Frühjahrsliteratur 2026](data/zeit/fruehjahr-2026.json) | 2026 | 15 |
 | ZEIT | [Literatur zu Weihnachten 2026](data/zeit/literatur-zu-weihnachten-2026.json) | 2026 | 27 |
-| ZEIT | [30 beste Bücher Frühjahr 2025](data/zeit/30-beste-fruehjahr-2025.json) | 2025 | 30 |
-| ZEIT | [33 wichtigsten Herbst 2025](data/zeit/33-wichtigsten-herbst-2025.json) | 2025 | 33 |
-| ZEIT | [50 beste Bücher des 21. Jh.](data/zeit/50-beste-21jh.json) | 2024 | 50 |
-| SPIEGEL | [Buchpreis 2025](data/spiegel/buchpreis-2025.json) | 2025 | 20 |
+| ZEIT | [Unsere 100 Bücher für den Herbst 2026](data/zeit/100-buecher-herbst-2026.json) | 2026 | 100 |
 | SZ | [Die Bücher des Herbstes 2026](data/sz/buecher-des-herbstes-2026.json) | 2026 | 10 |
 | MDR KULTUR | [Top 44 Bücher für den Herbst 2026](data/mdr/top-44-herbst-2026.json) | 2026 | 44 |
+| ZEIT | [Frühjahrsliteratur 2026](data/zeit/fruehjahr-2026.json) | 2026 | 15 |
+| ZEIT | [100 beste Bücher 2025](data/zeit/100-beste-2025.json) | 2025 | 100 |
+| SPIEGEL | [Buchpreis 2025](data/spiegel/buchpreis-2025.json) | 2025 | 20 |
+| ZEIT | [33 wichtigsten Herbst 2025](data/zeit/33-wichtigsten-herbst-2025.json) | 2025 | 33 |
+| ZEIT | [30 beste Bücher Frühjahr 2025](data/zeit/30-beste-fruehjahr-2025.json) | 2025 | 30 |
+| ZEIT | [50 beste Bücher des 21. Jh.](data/zeit/50-beste-21jh.json) | 2024 | 50 |
 | ZDF | ["Unsere Besten" 2004](data/zdf/100-liebsten-2004.json) | 2004 | 100 |
 
 ## Nutzung
