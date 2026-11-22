@@ -17,11 +17,11 @@
           "description": "Name der Publikation, z.B. 'DIE ZEIT'"
         },
         "issue": {
-          "type": "string",
+          "type": ["string", "null"],
           "description": "Ausgabe, z.B. '51/2025'"
         },
         "url": {
-          "type": "string",
+          "type": ["string", "null"],
           "format": "uri"
         },
         "date": {
